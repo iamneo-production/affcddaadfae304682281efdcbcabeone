@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    font-family: Arial,sans-serif;
+
+}
+h1{
+    font-size:36px;
+}
+.game-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
